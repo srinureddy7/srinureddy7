@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srinureddy7&label=Profile%20views&color=0e75b6&style=flat" alt="srinureddy7" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@srinu__reddy" target="blank"><img src="https://img.shields.io/twitter/follow/@srinu__reddy?logo=twitter&style=for-the-badge" alt="@srinu__reddy" /></a> </p>
+<p align="left"> <a href="https://twitter.com/srinu__reddy" target="blank"><img src="https://img.shields.io/twitter/follow/@srinu__reddy?logo=twitter&style=for-the-badge" alt="@srinu__reddy" /></a> </p>
 
 - 🔭 I’m currently working on **Chat Spell**
 
